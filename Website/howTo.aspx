@@ -79,7 +79,7 @@
            <li><a href="https://vimeo.com/141129826">Online Marketing and Strategy</a></li>
 
        </ul>
-    <h3>Azure Machine Learnings</h3>
+    <h3>Azure Machine Learning</h3>
        <ul>
            <li><a href="http://aka.ms/hackml">Hacking Machine Learning</a></li>
            <li><a href="http://blog.revolutionanalytics.com/2016/01/microsoft-r-open.html">R Language Resources</a></li>
