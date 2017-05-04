@@ -1,0 +1,154 @@
+﻿body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    height: 66px;
+}
+
+h1{
+    color:#0078D7;
+    font-size:3em;
+    font-weight:normal;
+    background-color:black;
+    padding:0;
+    margin-bottom:10px;
+    line-height:1em;
+}
+
+header {
+    color:white;
+    width:100%;
+    background-color:black;
+    margin-right:auto;
+    margin-left:auto;
+ 
+
+}
+
+.home-middle {  
+
+    background-image:url(HermanBannersSection1648x527.jpg);
+    background-repeat:no-repeat;
+    background-color:#151515;
+    margin-top:10px;
+    margin-right:auto;
+    margin-left:auto;
+    height: 527px;
+    color:#0094FF;
+    font-size:1.8em;
+
+}
+
+.home-middle ul{
+
+    list-style-type:none;
+}
+
+figure {
+
+    display:block;
+    width:220px;
+    height:170px;
+    text-align:center;
+    color:white;
+    font-size:1.0em;
+}
+
+figure img {
+    width:200px;
+    height:150px;
+}
+
+footer {
+    width:100%;
+    background-image:url(footer1648x300.jpg);
+    background-repeat:no-repeat;
+    background-color:#0094fe;
+    background-position: left bottom;
+    margin-right:auto;
+    margin-left:auto;
+    min-height:300px;
+    padding-bottom: 50px;
+}
+
+a:link {
+
+    color:white;
+    text-decoration:none;
+
+}
+
+a:visited{
+    color:white;
+}
+.entry {
+    width:220px;
+    float:left;
+    margin:10px;
+    padding: 15px;
+    text-align:center;
+
+}
+.wrapper{
+    width:900px;
+    margin:10px 250px;
+ 
+}
+
+/* centered columns styles */
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+.navbar {
+    margin-bottom: 0px;
+}
+section {
+  
+    background-color:white;    
+    margin-right:auto;
+    margin-left:auto;  
+    color:black;
+    font-size:1.1em;
+    padding-left: 25px;
+    padding-right: 25px;
+    min-height: 600px;
+    margin-top: 10px;
+    padding-bottom: 25px;
+ 
+}
+
+section ul {
+    list-style-type: none;
+    margin-left: 30px;
+}
+section a:link, section a:visited, section a:active, section a {
+    color: #0094FF;
+}
+section h2{
+
+    font-weight:600;
+    font-size:1.7em;
+    margin-left:20px;
+    margin-bottom:0px;
+    color:#0078D7;
+    float:none;
+}
+
+section h3{
+
+    font-size:1.3em;
+    font-weight:500;
+    margin-left:35px;
+    margin-top:0px;
+    color:#0078D7;
+}
+section ol{
+    margin-left:50px;
+}
