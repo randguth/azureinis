@@ -46,7 +46,7 @@
             <dd>Microsoft Senior Technical Evangelist</dd>
             <dd>Skype: 303-800-6549</dd>
             <dd>e-mail: randy.guthrie@microsoft.com</dd>
-            <dd>blog: http://blogs.msdn.com/b/MIS_Laboratory</dd>
+            <dd>blog: <a href="http://blogs.msdn.com/b/MIS_Laboratory">http://blogs.mdsn.com/b/MIS_Laboratory</a></dd>
             <dd>twitter: @randyguthrie</dd>
         </dl>      
     </div>

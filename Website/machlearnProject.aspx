@@ -45,7 +45,7 @@
 
            <li>Go to <a class="link" href="http://studio.azureml.net">Azure Machine Learning Studio</a> and click the "Sign Up" link</li>
            <li>Select the "Free Workspace" and click the corresponding "Sign In" button</li>
-           <li>Sign in with your Microsoft Account or school credentials (if your school offers Office 365)</li>
+           <li>Sign in with your <a href="http://live.com">Microsoft Account</a> or school credentials (if your school offers Office 365)</li>
 
        </ol>
        
