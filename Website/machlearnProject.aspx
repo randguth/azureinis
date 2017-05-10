@@ -94,27 +94,11 @@
            <li><a href="https://vimeo.com/208433656">Kaggle Titanic Survivor Submission How-To Video</a></li>
        </ul>     
        
-       <h3>Additional Instructional Videos</h3>
+       <h3>Earn a Data Science Certificate in Six Weeks - 4 Hours Per Week</h3>
        <ul>
-           <li>Build a Simple ML Model using Marco's Tutorial <a class="link" href="https://www.youtube.com/watch?v=1rYuZ_U9ArY">Marco Shaw Part I</a></li>
-           <li>Data Science Dojo Tutorials:</li>
-       </ul>
-
-       
-       <ul>
-           <li><a class="link" href="https://www.youtube.com/watch?v=tfYT1KdBh2Y">Part 1: Importing Data and Creating a New Experiment</a></li>
-           <li><a class="link" href="https://www.youtube.com/watch?v=QZtSaIQRDG4">Part 2: Reading External Data Sources</a></li>
-           <li><a class="link" href="https://www.youtube.com/watch?v=jAlmiDx3voE">Part 3: Data Exploration and Visualization</></li>
-           <li><a class="link" href="https://www.youtube.com/watch?v=4gn4447I5aQ">Part 4: Preprocessing Data 1, Casting and Renaming Columns</></li>
-           <li><a class="link" href="https://www.youtube.com/watch?v=97e5LuzbcXY">Part 5: Preprocessing Data 2, Scrub Missing Values & Project Columns</a></li>
-           <li><a class="link" href="https://www.youtube.com/watch?v=Ru8M1wK-fuQ">Part 6: (Optional) Feature Engineering and R Script</a></li>
-           <li><a class="link" href="https://www.youtube.com/watch?v=iqyI53GFm2s">Part 7: Building Your First Model</a></li>
-           <li><a class="link" href="https://www.youtube.com/watch?v=3w256YNwO1U">Part 8: Run and Fine Tune Multiple Models</a></li>
-           <li><a class="link" href="https://www.youtube.com/watch?v=K1LQEflebtQ">Part 9: Deploying Your First Predictive Model as a Web Service</a></li>
+           <li><a class="link" href="https://academy.microsoft.com">Microsoft Academy Certificate Program</a></li>
        </ul>
        <br />
-
-
 
     </section>
 
