@@ -84,7 +84,7 @@
             <li><a href="https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet">Printable guidance on Choosing an Algorithm</a></li>
         </ul>
 
-       <h3>Use Azure Machine Learning Algorithm in Excel to Make Prediction</h3>
+       <h3>Use Azure Machine Learning Algorithm in Excel Macro to Make Prediction</h3>
         <ul>
             <li><a href="https://vimeo.com/208258563">Azure Machine Learning Excel Add In Video</a></li>
         </ul>
