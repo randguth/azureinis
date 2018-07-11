@@ -54,17 +54,17 @@
 
     <h3>Build and Deploy Your Predictive Model (45 minutes)</h3>
        <ol>
-           <li>Download the train.csv and test.csv files from Kaggle.com: <a class="link" href="https://www.kaggle.com/c/titanic/data">Titanic: Machine Learning from Disaster</a></li>
+           <li>Download the train.csv and test.csv files from Kaggle.com: <a class="link" href="https://www.kaggle.com/c/titanic/data">Titanic: Machine Learning from Disaster</a> or Blackboard</li>
            <li>Build a Simple ML Model using Jennifer Marsman's Titanic Tutorial (fast-paced but entertaining) <a class="link" href="https://www.youtube.com/watch?v=iOjmy_JXkMg">Predict Who Survives the 
                Titanic - start at 00:23:00</a></li>
            <li>Sign into <a class="link" href="http://studio.azureml.net">Azure Machine Learning Studio</a></li>
-           <li>[Import data] (Datasets > new > browse local file > (select train.csv)</li>
+           <li>[Import data] (Datasets > new > FROM LOCAL FILE > SELECT THE DATA TO UPLOAD (browse) > click on the checkbox</li>
            <li>Experiments > new> blank experiment</li>
-           <li>Datasets > My Datasets > train.csv (drag over to first item on canvas)</li>
-           <li>Data Transformation > Manipulation > Select Columns in Dataset > PassengerID,Survived,Pclass,Sex,Age,SibSp,Parch,Fare,Embarked</li>
-           <li>Data Transformation > Manipulation > Edit Metadata (Launch column selector) >PassengerID > Fields > Clear Feature</li>
-           <li>Data Transformation > Manipulation > Edit Metadata (Launch column selector) > Survived > Fields > Label</li>
-           <li>Data Transformation > Manipulation > Edit Metadata (Launch column selector) > Survived,Pclass,Sex,Embarked > Categorical > Make categorical</li>
+           <li>Saved Datasets > My Datasets > train.csv (drag over to first item on canvas)</li>
+           <li>Data Transformation > Manipulation > Select Columns in Dataset >PassengerID,Survived,Pclass,Sex,Age,SibSp,Parch,Fare,Embarked</li>
+           <li>Data Transformation > Manipulation > Edit Metadata (Launch column selector) > Begin With > NO COLUMNS > Include column names> PassengerID > Fields > Clear Feature </li>
+           <li>Data Transformation > Manipulation > Edit Metadata (Launch column selector) > Begin With > NO COLUMNS > Include column names> Survived > Fields > Label</li>
+           <li>Data Transformation > Manipulation > Edit Metadata (Launch column selector) > Begin With > NO COLUMNS > Include column names> Survived,Pclass,Sex,Embarked > Categorical > Make categorical</li>
            <li>Data Transformation > Sample and Split > Split Data > Properties > Fraction of rows in first output dataset > 0.7</li>
            <li>Machine Learning > Train > Train Model > (wire .7 (left) output of split module to right input) > (Launch column selector)
                > Include > Column Names > Survived</li>
@@ -89,11 +89,21 @@
             <li><a href="https://vimeo.com/208258563">Azure Machine Learning Excel Add In Video</a></li>
         </ul>
        
-       <h3>Submit your Titantic Survivor Prediction to Kaggle.com for Scoring</h3>
+       <h3>(Optional) Submit your Titantic Survivor Prediction to Kaggle.com for Scoring</h3>
        <ul>
            <li><a href="https://vimeo.com/208433656">Kaggle Titanic Survivor Submission How-To Video</a></li>
-       </ul>     
+       </ul>
+ 
+       <h3>ASU CIS105 Students Get Credit for Completing Project</h3>
+        <ul>
+            <li><a href="http://asucis105ml.azurewebsites.net/">CIS105 Data Science Project API Submission Tool</a></li>
+            <li>you will need (1) the POST URL and (2) the API Key</li>
+        </ul>
        
+       <h3>(Optional) Friendly ASU CIS105 Class Competition</h3>
+       <ul>
+           <li><a href="https://www.kaggle.com/t/0ce47388718a43a2853fddb676fb1ba8">Kaggle In-class Competition</a></li>
+       </ul>  
        <h3>Earn a Data Science Certificate in Six Weeks - 4 Hours Per Week</h3>
        <ul>
            <li><a class="link" href="https://academy.microsoft.com">Microsoft Academy Certificate Program</a></li>
